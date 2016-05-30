@@ -1,0 +1,30 @@
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\cutit_000\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cutit_000\Documents\Visual Studio 2015\Projects\calculeator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
